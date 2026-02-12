@@ -1,0 +1,16 @@
+{
+  "name": "line-study-bot",
+  "version": "0.1.0",
+  "description": "LINE bot for study group (Node.js)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "oreo0725",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "@line/bot-sdk": "^8.2.0"
+  }
+}
